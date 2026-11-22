@@ -1,0 +1,10 @@
+Tương tự bài 7
+B77:Viết một chương trình tìm tất cả các số trong đoạn [a,b] với a,b là 2 số nguyên thược đoạn [1000,9999], sao cho các chữ số trong số đó là số lẻ.
+In các số tìm được thành chuỗi cách nhau bởi dấu phẩy, trên một dòng.
+B777: Viết một chương trình tìm tất cả các số trong đoạn [a,b] với a,b là 2 số nguyên thuộc đoạn [1000,9999], sao cho các chữ số trong số đó có 2 số lẻ và 2 số chẵn.
+In các số tìm được thành chuỗi cách nhau bởi dấu phẩy, trên một dòng
+B78: Viết một chương trình tìm tất cả các số trong đoạn [a,b] với a,b là 2 số nguyên thuộc đoạn [1000,9999], sao cho tổng các chữ số là số lẻ (hoặc là số chẵn).
+In các số tìm được thành chuỗi cách nhau bởi dấu phẩy, trên một dòng
+B79: Viết một chương trình tìm tất cả các số trong đoạn [a,b] với a,b là 2 số nguyên thuộc đoạn [1000,9999], sao cho tổng 2 chữ số trước bằng tổng 2 chữ số sau.
+Ví dụ: số thoả mãn: 1230 (vì 1+2=3+0) hoặc   3526 (vì 3+5= 2+6)
+In các số tìm được thành chuỗi cách nhau bởi dấu phẩy, trên một dòng
